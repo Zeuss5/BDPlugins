@@ -6,7 +6,7 @@
  * @invite SgKSKyh9gY
  * @description Adds a slash command to send a random cat GIF.
  * @website https://tharki-god.github.io/
- * @source https://github.com/Tharki-God/BetterDiscordPlugins
+ * @source https://github.com/Zeuss5/BDPlugins/
  * @updateUrl https://tharki-god.github.io/BetterDiscordPlugins/Cat.plugin.js
  */
 /*@cc_on
