@@ -6,8 +6,8 @@
  * @invite SgKSKyh9gY
  * @description Adds a slash command to send a random cat GIF.
  * @website https://tharki-god.github.io/
- * @source https://github.com/Zeuss5/BDPlugins/
- * @updateUrl https://tharki-god.github.io/BetterDiscordPlugins/Cat.plugin.js
+ * @source https://github.com/Zeuss5/BDPlugins
+ * @updateUrl https://raw.githubusercontent.com/Zeuss5/BDPlugins/main/Cat.plugin.js
  */
 /*@cc_on
   @if (@_jscript)	
@@ -43,9 +43,9 @@ module.exports = (() => {
       ],
       version: "1.3.0",
       description: "Adds a slash command to send a random cat GIF.",
-      github: "https://github.com/Tharki-God/BetterDiscordPlugins",
+      github: "https://github.com/Zeuss5/BDPlugins",
       github_raw:
-        "https://tharki-god.github.io/BetterDiscordPlugins/Rabbit.plugin.js",
+        "https://raw.githubusercontent.com/Zeuss5/BDPlugins/main/Cat.plugin.js",
     },
     changelog: [
       {
